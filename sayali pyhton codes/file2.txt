@@ -1,0 +1,4 @@
+This is text from file2
+Hi I am Shravani.
+I am studying in DYPCET.
+I am studying python.
